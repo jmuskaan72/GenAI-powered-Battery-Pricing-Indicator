@@ -1,9 +1,6 @@
 # GenAI powered Battery Pricing Indicator Bot
 
-<video width="600" controls>
-  <source src="Battery Pricing Indicator LLM Demo Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo Video here!](https://drive.google.com/file/d/1-Tf5yotqULGLNGFCnCPMJRU0eheLBZPN/view?usp=sharing)
 
 ## Overview
 Engineered a GenAI-powered Streamlit-based EV Battery Dynamic Pricing Indicator with 12-month dynamic pricing forecasting capabilities, as per the vehicle on-road usage and reutilisation with other devices. 
