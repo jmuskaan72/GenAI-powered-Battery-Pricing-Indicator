@@ -1,5 +1,10 @@
 # GenAI powered Battery Pricing Indicator Bot
 
+<video width="600" controls>
+  <source src="Battery Pricing Indicator LLM Demo Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Overview
 Engineered a GenAI-powered Streamlit-based EV Battery Dynamic Pricing Indicator with 12-month dynamic pricing forecasting capabilities, as per the vehicle on-road usage and reutilisation with other devices. 
 Battery Pricing LLM Bot integrates battery descriptions with pricing-affecting factors and training feature parameters using [Ollama Mistral-7B](https://ollama.com/library/mistral) model. This system enables:
