@@ -68,3 +68,4 @@ GenAI surpasses traditional ML in identifying subtle correlations like:
 ## References
 - [Complete Guide to EV Batteries in India: Pricing, Top Manufacturers & Future Trends (2024)](https://lohum.com/scrap-battery-price-calculator/)
 - [Lohum Battery Price Calculator](https://lohum.com/scrap-battery-price-calculator/)
+- Full details for the architecture and Streamlit UI explained can be found in the pdf attached. 
